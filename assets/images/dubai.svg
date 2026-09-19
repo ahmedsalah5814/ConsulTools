@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
-    <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#071a2b"/><stop offset="1" stop-color="#1777a9"/></linearGradient></defs>
-    <rect width="1200" height="700" fill="url(#g)"/><circle cx="980" cy="120" r="90" fill="#c9a45c" opacity=".18"/>
-    <text x="70" y="330" fill="white" font-family="Arial" font-size="54" font-weight="700">دبي</text>
-    <text x="70" y="390" fill="#d8e5ed" font-family="Arial" font-size="28">استبدل هذه الصورة بصورتك</text></svg>
