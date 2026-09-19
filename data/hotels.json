@@ -1,0 +1,16 @@
+[
+  {
+    "name": "اسم الفندق الأول",
+    "city": "مكة المكرمة",
+    "stars": 5,
+    "price": "أضف السعر",
+    "image": "assets/images/hotel.svg"
+  },
+  {
+    "name": "اسم الفندق الثاني",
+    "city": "المدينة المنورة",
+    "stars": 4,
+    "price": "أضف السعر",
+    "image": "assets/images/hotel.svg"
+  }
+]
